@@ -45,7 +45,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.title("📝 To-Do List App")
+st.title("📝 Smart Task Manager")
 
 # -------- Add Task --------
 every_day=st.checkbox("Every Day Task")
